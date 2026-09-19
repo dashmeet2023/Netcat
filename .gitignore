@@ -1,0 +1,29 @@
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Logs
+*.log
+
+# Runtime databases
+*.db
+
+# CMake build artifacts
+build/
+.cache/
+
+# VS Code editor settings
+.vscode/
+
+# Vendored Python interpreter (use requirements.txt instead)
+python311/
+
+# Temporary capture files
+temp_rotate.pcap
+*.pcap
+
+# Test & execution caches / binaries
+.pytest_cache/
+*.exe
+
